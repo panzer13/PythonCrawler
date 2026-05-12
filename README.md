@@ -30,18 +30,6 @@
         </a>
 </p>
 
-# 🚀 重磅福利｜Swiftproxy 全球代理 · 开发者必备
-<img width="630" height="210" alt="Swiftproxy 代理服务" src="https://github.com/user-attachments/assets/7d26f4bc-f362-42e7-adc1-6f938958b0c3" />  
-
-**🌍 全球顶级住宅代理网络，一站式解决爬虫/采集/自动化难题 [🔗官方入口](https://www.swiftproxy.net/?ref=PythonCrawler)**  
-- [x] **195+国家全覆盖**，**8000万+** 纯净住宅IP池  
-- [x] **99.89%超高请求成功率**，稳定低延迟  
-- [x] 流量永不过期，无强制月付，灵活随心用  
-- [x] 原生支持 **HTTP(S)/SOCKS5** 双协议  
-- [x] 智能IP轮换+精准地区定位，强效规避封锁  
-- [x] 适配Python/Node/Go/PHP全语言，一键集成  
-- [x] 免费试用开启，开箱即用零门槛
-
 ---
 # spiderFile模块简介
 
